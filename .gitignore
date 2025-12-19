@@ -4,3 +4,6 @@ imgs/semantic
 
 # test notebook
 imitation_initialized_ppo - Copy.ipynb
+
+# PPO models
+ppo/models
