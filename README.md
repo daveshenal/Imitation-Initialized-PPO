@@ -9,6 +9,10 @@
 
 <img src="system_diagrams/Imitation-Initialized_PPO.drawio.png" width="600" alt="System Diagram">
 
+## Training Process
+
+![Training at Iteration 35](gifs/train_iteration35.gif)
+
 ## How to Set Up
 
 ### Pre-requisites
