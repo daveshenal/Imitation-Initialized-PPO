@@ -1,6 +1,13 @@
 # Imitation-Initialized-PPO
+
+<img src="system_diagrams/lane_keeping.jpg" width="600" alt="Self Driving Img">
+
 - Lane-Keeping with Hybrid Imitation and Reinforcement Learning (PPO)
 - CNN for feature extraction via imitation learning and PPO for reinforcement learning.
+
+## High-level Diagram
+
+<img src="system_diagrams/Imitation-Initialized_PPO.drawio.png" width="600" alt="System Diagram">
 
 ## How to Set Up
 
